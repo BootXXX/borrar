@@ -2,7 +2,3 @@ Hola soy Fbricio
 Estoy aprendiendo git ahora
 
 Espero aprender mucho mas
-
-Error
-
-Pie de pagina
