@@ -2,3 +2,5 @@ Hola soy Fbricio
 Estoy aprendiendo git ahora
 
 Espero aprender mucho mas.
+
+Estoy trabajando en remoto
